@@ -1,8 +1,6 @@
 {
-    "main": "src/index.js",
-    "scripts": {
-        "test": "node src/index.js"
-    },
+    "name": "nba-player-stat",
+    "main": "",
     "dependencies": {
         "superagent": "^6.1.0"
     }
